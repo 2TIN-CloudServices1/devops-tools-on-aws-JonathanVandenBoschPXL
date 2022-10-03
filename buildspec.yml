@@ -9,7 +9,6 @@ phases:
     commands:
       - echo Running tests
       - npm install
-      - npm test
 
   build:
     commands:
